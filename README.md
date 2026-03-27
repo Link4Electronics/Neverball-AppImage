@@ -17,7 +17,7 @@
 
 </div>
 
-* `nuverput` and `mapc` are also included, to use them you can do the following: 
+* `neverput` and `mapc` are also included, to use them you can do the following: 
 
 ```
 ./Neverball-*-anylinux-*.AppImage neverput
